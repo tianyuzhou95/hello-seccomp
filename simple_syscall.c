@@ -10,8 +10,8 @@ int main(void) {
     char *notice = "I will list the files in /home/zty\n";
     // printf("size of notice: %d\n", sizeof(notice));
     write(1, notice, strlen(notice)+1);
-    syscall(59, filename, argv, envp); //execve
-    execve(filename, argv, envp);
+    // just as execve(filename, argv. envp)
+    syscall(59, filename, argv, envp);
     return 0;
 }
 
