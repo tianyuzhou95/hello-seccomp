@@ -1,4 +1,4 @@
-// gcc simple_syscall.c -o simple_syscall
+// gcc -g simple_syscall.c -o simple_syscall
 #include <unistd.h>
 #include <stdio.h>
 #include <string.h>
