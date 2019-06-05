@@ -8,7 +8,7 @@
 
 ### Reference
 
-[seccomp学习笔记]([https://veritas501.space/2018/05/05/seccomp%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/](https://veritas501.space/2018/05/05/seccomp学习笔记/))
+[seccomp学习笔记](https://veritas501.space/2018/05/05/seccomp学习笔记/)
 
 [linux下man时括号里的数字意义](https://blog.csdn.net/cica0cica/article/details/47359233)
 
